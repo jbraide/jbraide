@@ -1,8 +1,4 @@
-# Hello, World! 👋
-
-I'm **Joseph D. Braide**, a passionate developer and entrepreneur based in [Your Location]. Welcome to my GitHub profile! 🚀
-
-## About Me
+# About Me
 
 I'm a software enthusiast with a keen interest in programming and business. I love to explore new technologies and leverage them to solve real-life problems.
 
