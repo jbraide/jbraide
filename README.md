@@ -4,23 +4,23 @@ I'm [Your Name], a passionate [Your Profession] based in [Your Location]. Welcom
 
 ## About Me
 
-I'm a [Brief Description about Yourself]. My interests range from [Interests/Hobbies] to [Another Interest/Hobby]. I love to explore new technologies and leverage them to solve real-life problems.
+I'm a Joseph D. Braide. My interests range from programming to Business. I love to explore new technologies and leverage them to solve real-life problems.
 
-- 🔭 I’m currently working on [Current Project(s)].
-- 🌱 I’m currently learning [Current Learning Focus].
-- 💬 Ask me about [Python, Django, Flutter, Javascript].
+- 🔭 I’m currently working on microepay.com.
+- 🌱 I’m currently learning Mobile Development, Machine Learning and Devops.
+- 💬 Ask me about Python, Django, Flutter, Javascript.
 - 📫 How to reach me: [braidej@gmail.com].
 
 ## Tech Stack
 
 Here are some technologies and tools I enjoy working with:
 
-- Programming Languages: [Languages]
-- Frontend: [Frontend Technologies]
-- Backend: [Backend Technologies]
-- Databases: [Database Systems]
-- Tools: [Development Tools]
-- Other: [Other Relevant Technologies]
+- Programming Languages: Python, Dart, Javascript
+- Frontend: React, HTML, CSS. Flutter
+- Backend: Django, DRF, Flask.
+- Databases: PostgreSQL, MySQL
+- Tools: VS Code, Terminal, MacOS, Ubuntu/Debian.
+- Other: Trello, Tick Tick. 
 
 ## Recent Projects
 
@@ -30,7 +30,7 @@ Here are some technologies and tools I enjoy working with:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbraide&show_icons=true&count_private=true)
 
 ## Connect with Me
 
